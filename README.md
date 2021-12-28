@@ -9,7 +9,7 @@ Made a smart contract lottery.
 3. The lottery will select a random winner
 
 ### functions used in the contract:
-```
+```cpp
     function enter() public payable {}
     function getEntranceFee() public {}
     function startLottery() public {}
