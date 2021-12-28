@@ -3,6 +3,7 @@
 Made a smart contract lottery.
 ### what is smart contract?
 smart contract is a set of instructions that can be executed without intervention from third parties. 
+- Another advatage of the smart contracts is that It can be used to store and manage assets.   
 
 
 # Smart Contract Lottery:
