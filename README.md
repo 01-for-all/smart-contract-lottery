@@ -8,6 +8,13 @@ Made a smart contract lottery.
 2. An admin will choose when the lottery is over
 3. The lottery will select a random winner
 
+### functions used in the contract:
+```
+    function enter() public payable {}
+    function getEntranceFee() public {}
+    function startLottery() public {}
+    function endLottery() public {}
+```
 ## step 2:  
 
 ### Is this really decentralized?
