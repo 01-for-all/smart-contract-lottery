@@ -1,5 +1,9 @@
 ## SmartContract Lottery:
+
 Made a smart contract lottery.
+### what is smart contract?
+smart contract is a set of instructions that can be executed without intervention from third parties. 
+
 
 # Smart Contract Lottery:
 
