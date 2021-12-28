@@ -1,4 +1,4 @@
-# SmartContract Lottery:
+## SmartContract Lottery:
 Made a smart contract lottery.
 
 1. User can enter lottery with ETH based on a USD fee
